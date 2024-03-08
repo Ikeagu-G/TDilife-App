@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\extensions\\productextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:extensions\\productextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\requesthelpers\\productparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:requesthelpers\\productparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDACB2C-86B9-4E3A-B4B8-FC7E8308BE7B}|..\\Persistence\\Persistence.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDACB2C-86B9-4E3A-B4B8-FC7E8308BE7B}|..\\Persistence\\Persistence.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\tdilife app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:tdilife app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDACB2C-86B9-4E3A-B4B8-FC7E8308BE7B}|..\\Persistence\\Persistence.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86BDD8C-06B7-4816-8978-EE24840A9463}|..\\Client\\client.esproj|c:\\users\\chidubem ikeagwu\\source\\repos\\client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86BDD8C-06B7-4816-8978-EE24840A9463}|..\\Client\\client.esproj|c:\\users\\chidubem ikeagwu\\source\\repos\\client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86BDD8C-06B7-4816-8978-EE24840A9463}|..\\Client\\client.esproj|c:\\users\\chidubem ikeagwu\\source\\repos\\client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\requesthelpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:requesthelpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\requesthelpers\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:requesthelpers\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\requesthelpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:requesthelpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\tdilife app\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659881E7-F4FF-4B00-AC04-020A919EBFE9}|TDiLife app.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0EFF59-3E97-4E3C-95FE-682BC0B90B29}|..\\Domain\\Domain.csproj|c:\\users\\chidubem ikeagwu\\source\\repos\\domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1386114660:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:233245107:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:542994001:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180082066:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2108663414:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:216455721:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1362801868:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-19T05:12:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\CartDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Dtos\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\CartDto.cs",
+              "RelativeToolTip": "..\\Domain\\Dtos\\CartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HttpExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Extensions\\HttpExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\HttpExtensions.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Extensions\\HttpExtensions.cs",
+              "RelativeToolTip": "Extensions\\HttpExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T14:04:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-03-19T05:25:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductParams.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\ProductParams.cs",
+              "RelativeDocumentMoniker": "RequestHelpers\\ProductParams.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\ProductParams.cs",
+              "RelativeToolTip": "RequestHelpers\\ProductParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T12:41:24.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Extensions\\ProductExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ProductExtension.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Extensions\\ProductExtension.cs",
+              "RelativeToolTip": "Extensions\\ProductExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T09:48:33.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\Persistence\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "..\\Persistence\\DbInitializer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-19T09:03:23.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-01T19:39:54.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-20T12:39:42.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-06T14:19:35.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-20T05:17:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TDiLife app.csproj",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\TDiLife app.csproj",
+              "RelativeDocumentMoniker": "TDiLife app.csproj",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\TDiLife app.csproj",
+              "RelativeToolTip": "TDiLife app.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-08-21T08:40:22.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-08-21T08:40:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "..\\Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-08-21T08:40:22.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-20T10:05:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "..\\Domain\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-06T14:28:11.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "..\\Domain\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\public\\index.html",
+              "RelativeDocumentMoniker": "..\\Client\\public\\index.html",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\public\\index.html",
+              "RelativeToolTip": "..\\Client\\public\\index.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2023-04-25T14:21:13.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "..\\Client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\src\\App.tsx",
+              "RelativeToolTip": "..\\Client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2023-04-25T14:36:24.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\src\\index.css",
+              "RelativeDocumentMoniker": "..\\Client\\src\\index.css",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Client\\src\\index.css",
+              "RelativeToolTip": "..\\Client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-04-25T14:47:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "RequestHelpers\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\PaginationParams.cs",
+              "RelativeToolTip": "RequestHelpers\\PaginationParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T12:30:25.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\MetaData.cs",
+              "RelativeDocumentMoniker": "RequestHelpers\\MetaData.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\MetaData.cs",
+              "RelativeToolTip": "RequestHelpers\\MetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T12:45:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\PagedList.cs",
+              "RelativeDocumentMoniker": "RequestHelpers\\PagedList.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\RequestHelpers\\PagedList.cs",
+              "RelativeToolTip": "RequestHelpers\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-05T13:06:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Dtos\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Dtos\\CartItemDto.cs",
+              "RelativeToolTip": "..\\Domain\\Dtos\\CartItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T10:42:52.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-20T09:17:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Chidubem Ikeagwu\\source\\repos\\TDiLife app\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-20T08:49:09.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

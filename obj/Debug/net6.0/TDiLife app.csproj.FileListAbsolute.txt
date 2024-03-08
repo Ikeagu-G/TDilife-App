@@ -1,0 +1,84 @@
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\appsettings.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\TDiLife app.exe
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\TDiLife app.deps.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\TDiLife app.runtimeconfig.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\TDiLife app.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\TDiLife app.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Domain.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Persistence.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Domain.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.csproj.AssemblyReference.cache
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.AssemblyInfoInputs.cache
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.AssemblyInfo.cs
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.csproj.CoreCompileInputs.cache
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\scopedcss\bundle\TDiLife app.styles.css
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.csproj.CopyComplete
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\refint\TDiLife app.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.pdb
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\TDiLife app.genruntimeconfig.cache
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\ref\TDiLife app.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets\msbuild.TDiLife app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets\msbuild.build.TDiLife app.props
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TDiLife app.props
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TDiLife app.props
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chidubem Ikeagwu\source\repos\TDiLife app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
